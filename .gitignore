@@ -4,3 +4,4 @@ logs/
 initial.sh
 nohup.out
 test/
+*.txt

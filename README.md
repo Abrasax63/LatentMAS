@@ -46,6 +46,7 @@ Overall, LatentMAS achieves **superior performance**, **lower token usage**, and
 ## 🔔 News
 
 - **[2025-11-25]** We have released our paper and code implementations for LatentMAS! Stay tuned for more model-backbone supports and advanced features!
+- **[2025-11-25]** We are featured as 🤗 [**HuggingFace 2nd Paper of the Day**](https://huggingface.co/papers/2511.20639)!
 
 ## 📊 Experiments Overview
 
